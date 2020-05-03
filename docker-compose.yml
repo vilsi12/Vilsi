@@ -1,0 +1,32 @@
+version: "3"
+
+
+   
+
+  worker:
+    build:
+      context: ./worker
+    depends_on:
+      - "centos"
+      - "db"
+    
+  centos
+    image: centos:7
+    container_name: centos
+    ports: ["6379"]
+    
+
+  db:
+    image: mysql
+    container_name: db
+    environment:
+      mysql_USER: "mysql"
+      mysql_PASSWORD: "mysql"
+    volumes:
+      - "db-data:/var/lib/mysql/data"
+    
+
+volumes:
+  db-data:
+
+
