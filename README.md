@@ -21,4 +21,75 @@ I have built my project with set up the project I used-
 
 
 
-1)Redhat 8                                                                                                                               2)Oracle virtual Box                                                                                                                      3)Mysql                                                                                                                                      4)Docker
+1)Redhat 8                                                                                                                               
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2)Oracle virtual Box                                                                                                                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3)Mysql                                                                                                                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4)Docker
