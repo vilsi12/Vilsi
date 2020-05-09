@@ -35,14 +35,6 @@ I have built my project with set up the project I used-
 
 
 
-
-
-
-
-
-
-
-
 2)Oracle virtual Box                                                                                                                      
 
 
@@ -59,24 +51,7 @@ I have built my project with set up the project I used-
 
 
 
-
-
-
-
-
-
-
-
 3)Mysql                                                                                                                                
-
-
-
-
-
-
-
-
-
 
 
 
