@@ -31,7 +31,7 @@ Docker is a fantastic tool which was devolped by Dotcloud by Solomon Hykes and S
 Docker is a set as a service products that uses OS-level Virtualization to deliver software in packages called containers.
 This tool is made to design our work easier to deploy and run  application by using the containeer in just a second.With help of docker I can run other OS in less time and work on.
 
-*(https://user-images.githubusercontent.com/29686102/103154234-0a781e00-47bc-11eb-9ee8-f998b80821a5.jpeg)
+
 
 
 
